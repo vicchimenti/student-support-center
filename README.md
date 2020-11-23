@@ -2,5 +2,5 @@
 
 ## TODO
 
-- [] collect legacy code
+- [x] collect legacy code
 - [] refactor legacy code
