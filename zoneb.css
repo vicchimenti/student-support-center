@@ -1,0 +1,36 @@
+#id1345196 {
+    background: #fafafa;
+}
+
+.infographicWrapper,
+#sscChat {
+    padding: 0;
+}
+
+@media screen and (max-width: 767.999px) {
+    /* xs */
+    #sscChat {
+        padding: 15px;
+    }
+}
+
+.infographic .colorRed .infographicItemIcon {
+    background-color: #ffffff;
+}
+
+.infographic .colorRed .infographicItemIcon .fa {
+    color: #aa0000;
+}
+
+.infographic .colorRed .infographicItemNumber,
+.infographic .colorRed .infographicItemHeader {
+    color: #ffffff;
+    font-size: 2rem;
+}
+
+@media screen and (min-width: 992px) {
+    .infographic a.phoneonly {
+        cursor: text;
+        text-decoration: none;
+    }
+}
