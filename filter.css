@@ -1,0 +1,14 @@
+#filterField {
+    padding: 0;
+}
+
+.noResultsToShow {
+    background: #e3e3da;
+    padding: 30px;
+    margin: 15px;
+}
+
+.hideByDropdownCategories,
+.hideResultsMessage {
+    display: none;
+}
